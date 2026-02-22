@@ -1,6 +1,5 @@
 <h2> Quiz App </h2>
-<hr/>
-
+My First React Mini Project
 I practiced the below tutorial for my first react mini project
 
 Link:
