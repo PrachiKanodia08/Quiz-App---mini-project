@@ -1,4 +1,4 @@
-Quiz App
+<h1> Quiz App </h1>
 <hr/>
 
 I practiced the below tutorial for my first react mini project
