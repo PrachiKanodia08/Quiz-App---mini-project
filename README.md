@@ -1,10 +1,15 @@
 <h2> Quiz App </h2>
-My First React Mini Project
-I practiced the below tutorial for my first react mini project
-
-This is how it looks like - 
-<img width="1737" height="856" alt="image" src="https://github.com/user-attachments/assets/255dc230-0562-4be4-8e28-8c8a831ff158" />
-
+My First React Mini Practice Project !!! <br/>
+I practiced the below tutorial for my first react mini project <br/><br/>
+My addition - 
+<ul>
+<li>Next button should be disabled when no option is selected and get enabled when option is selected.....<span style="color: red;">In progress</span></li>
+<li>Back button Functionality.....In progress</li>
+</ul>
 
 Link:
 YouTube - https://www.youtube.com/watch?v=VMZ7lcSdVnY
+
+This is how it looks like - <br />
+<img width="800" height="856" alt="image" src="https://github.com/user-attachments/assets/255dc230-0562-4be4-8e28-8c8a831ff158" />
+
