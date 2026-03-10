@@ -3,7 +3,8 @@ My First React Mini Practice Project !!! <br/>
 I practiced the below tutorial for my first react mini project <br/><br/>
 My addition - 
 <ul>
-<li>Next button should be disabled when no option is selected and get enabled when option is selected</li>
+<li>Next button appears disabled when no option is selected and get enabled when a option is selected</li>
+<li>Cursor 'not allowed' when next button is disabled</li>
 </ul>
 
 Link:
