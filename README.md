@@ -11,5 +11,8 @@ Link:
 YouTube video from **GreatStack** - https://www.youtube.com/watch?v=VMZ7lcSdVnY
 
 This is how it looks like - <br />
-<img width="800" height="856" alt="image" src="https://github.com/user-attachments/assets/255dc230-0562-4be4-8e28-8c8a831ff158" />
+<img width="600" height="700" alt="image" src="https://github.com/user-attachments/assets/e4feea46-fbb0-4334-bd12-1b86e39b6e6d" />
+
+<img width="600" height="700" alt="image" src="https://github.com/user-attachments/assets/257c7d53-9bfc-4979-8096-81d34960bf6b" />
+
 
